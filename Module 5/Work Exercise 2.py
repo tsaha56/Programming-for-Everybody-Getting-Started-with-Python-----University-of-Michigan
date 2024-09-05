@@ -4,7 +4,7 @@ try:
     y1 = input ('Enter rate:')
     try :
         y2 = float (y1)
-        if x2 < 40:
+        if x2 < 40 :
             z = float ( x2 * y2)
             print ( "pay: ", z)
         else :
